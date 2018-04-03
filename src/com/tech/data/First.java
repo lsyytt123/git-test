@@ -7,6 +7,6 @@ package com.tech.data;
 public class First {
 
     public static void main(String[] args) {
-        System.out.println("modify in test-1.0 branch");
+        System.out.println("world");
     }
 }
