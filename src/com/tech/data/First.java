@@ -13,4 +13,7 @@ public class First {
     public void getLog() {
         System.out.println("打印log");
     }
+    public void setLog() {
+        System.out.println("继续打印log");
+    }
 }
