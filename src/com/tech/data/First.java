@@ -12,4 +12,8 @@ public class First {
         System.out.println("effdddddadf");
         System.out.println("gcccdeeaddd");
     }
+
+    public void getLog() {
+        System.out.println("打印log");
+    }
 }
