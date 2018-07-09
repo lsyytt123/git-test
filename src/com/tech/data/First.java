@@ -14,6 +14,6 @@ public class First {
         System.out.println("打印log");
     }
     public void setLog() {
-        System.out.println("修改继续打印log");
+        //System.out.println("修改继续打印log");
     }
 }
