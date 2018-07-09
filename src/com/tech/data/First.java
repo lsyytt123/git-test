@@ -7,13 +7,16 @@ package com.tech.data;
 public class First {
 
     public static void main(String[] args) {
-        System.out.println("modify in test-1.0 branch");
+        System.out.println("hello ");
+        System.out.println("best");
+        System.out.println("effdddddadf");
+        System.out.println("gcccdeeaddd");
     }
 
     public void getLog() {
         System.out.println("打印log");
     }
     public void setLog() {
-        /////////////////////////System.out.println("修改继续打印log");
+        System.out.println("修改xxxxx继续打印log");
     }
 }
