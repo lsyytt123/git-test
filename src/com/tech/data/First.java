@@ -9,4 +9,8 @@ public class First {
     public static void main(String[] args) {
         System.out.println("modify in test-1.0 branch");
     }
+
+    public void getLog() {
+        System.out.println("打印log");
+    }
 }
